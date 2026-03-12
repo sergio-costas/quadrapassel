@@ -32,7 +32,7 @@ parts:
 # ext:updatesnap
     source: https://gitlab.gnome.org/GNOME/quadrapassel.git
     source-type: git
-    source-tag: '40.2'
+    source-tag: '49.2.3'
     source-depth: 1
     plugin: meson
     meson-parameters:
